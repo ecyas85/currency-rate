@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+app:
+  cache:
+    size: 365
+  rest:
+    api:
+      prefix: /api
+
+cbrf:
+  url: "https://cbr.ru/scripts/XML_daily.asp"
+
